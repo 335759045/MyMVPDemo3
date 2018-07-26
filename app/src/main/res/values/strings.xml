@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">跑到专员版</string>
+
+    <string name="login">登录</string>
+    <string name="code_login">验证码登录</string>
+    <string name="password_login">密码登录</string>
+    <string name="phone_num">手机号</string>
+    <string name="veri_code">验证码</string>
+    <string name="btn_send_code_again">重试(%1$dS)</string>
+    <string name="btn_send_code">获取验证码</string>
+    <string name="hint_code">请输入验证码</string>
+    <string name="password">密码</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="me">我的</string>
+    <string name="zjqd">自建渠道</string>
+    <string name="shsb">审核失败</string>
+    <string name="upload_f">有%1$s张图片上传失败</string>
+</resources>

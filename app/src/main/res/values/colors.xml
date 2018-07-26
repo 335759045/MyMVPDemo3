@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6600</color>
+    <color name="colorPrimaryDark">#060606</color>
+    <color name="colorAccent">#FF6600</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparentno">#80000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#060606</color>
+    <color name="act_title_bg">#FFFFFF</color>
+    <color name="color_efeff4">#efeff4</color>
+    <color name="color_6b">#bbbbbb</color>
+    <color name="color_e5e5e5">#e5e5e5</color>
+    <color name="blue">#FF6600</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_d3d3d3">#d3d3d3</color>
+    <color name="colorEBEBEB">#EBEBEB</color>
+    <color name="colorFFFF7900">#FFFF7900</color>
+    <color name="colorFFF5A823">#FFF5A823</color>
+    <color name="colorFFCF021A">#FFCF021A</color>
+    <color name="color6f6f6f">#6F6F6F</color>
+    <color name="colorFF999999">#FF666666</color>
+
+</resources>
