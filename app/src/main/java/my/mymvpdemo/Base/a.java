@@ -5,5 +5,7 @@ package my.mymvpdemo.Base;
  */
 
 public interface a {
+    interface bbasss{
 
+    }
 }
